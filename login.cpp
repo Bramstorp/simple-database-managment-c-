@@ -52,7 +52,7 @@ int userMenu()
 
         if (userName == "admin" && password == "admin")
         {
-            return 1; // Return 1 on successful login as admin
+            return 1;
         }
         else
         {
