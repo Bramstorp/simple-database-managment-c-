@@ -1,4 +1,4 @@
-# simple-database-managment
+# Simple database managment
 
 ## Features
 
@@ -6,3 +6,9 @@
 - SQL-like query language parser.
 - In-memory data storage with basic indexing.
 - Basic CRUD (Create, Read, Update, Delete) operations.
+
+## Setup (Linux)
+
+`sudo apt update`
+`sudo apt install build-essential gdb`
+`gcc --version`
