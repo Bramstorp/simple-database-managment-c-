@@ -12,3 +12,8 @@
 `sudo apt update`
 `sudo apt install build-essential gdb`
 `gcc --version`
+
+`sudo apt-get install sqlite3 libsqlite3-dev`
+
+`g++ -o login login.cpp -lsqlite3`
+`/login`
